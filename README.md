@@ -27,7 +27,7 @@
 如果您熟悉 Git，这是最快捷的方法。打开您的终端或命令行工具，运行以下命令克隆本仓库到本地：
 
 ```bash
-git clone https://github.com/your-username/fox-coze-workflows
+git clone https://github.com/Foxanran/fox-coze-workflows
 ```
 
 #### 方法二：直接下载 ZIP 压缩包
@@ -91,7 +91,7 @@ git clone https://github.com/your-username/fox-coze-workflows
 恭喜！您已成功导入工作流，现在可以在您的 Bot 中尽情使用它了。
 
 
-## 🚀 工作流完整列表
+## 🚀安卿辰 工作流完整列表
 
 | 序号 | 类型 | 名称 | 简介 |
 | :--- | :--- | :--- | :--- |
